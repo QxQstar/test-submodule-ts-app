@@ -1,3 +1,6 @@
 [submodule "packages/math"]
 	path = packages/math
 	url = https://github.com/QxQstar/ts-math.git
+[submodule "packages/ts-axios"]
+	path = packages/ts-axios
+	url = https://github.com/QxQstar/ts-axios.git
