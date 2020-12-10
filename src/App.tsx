@@ -1,7 +1,10 @@
 import React from 'react';
+import { add } from 'math/src'
 import './App.css';
 
 function App() {
+  console.log(add(1,2))
+  
   return (
     <div className="App">
       <header className="App-header">

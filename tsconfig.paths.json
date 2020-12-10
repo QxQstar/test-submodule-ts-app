@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "math/*": ["packages/math/*"],
+        "ts-axios/*": ["packages/ts-axios/*"]
+      }
+    }
+  }
